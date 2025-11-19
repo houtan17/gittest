@@ -1,8 +1,7 @@
 console.log("hello world")
 
 (()=>{
-  let x ="ali";
-  x ='houtan'
+  const x ="ali";
   console.log(x);
 })()
 
